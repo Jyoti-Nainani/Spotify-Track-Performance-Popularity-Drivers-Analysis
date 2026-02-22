@@ -23,7 +23,7 @@ This project analyzes Spotify track data to understand how genre mix and content
 - Explicit tracks have higher average popularity (**57.5 vs 50.5**)score, but the effect size is moderate.
 - Track type analysis(Album vs Compilation vs Single) shows format level variation in engagement.
 - Correlation analysis suggests **no single feature strongly drives popularity**, indicating multi-factor influence.
-## Business Impilcations
+## Business Implications
 
 - **Targeted genre expansion** (e.g., high-performing niche genres) can increase listening time and retention.
 - Over- expansion of any single genre risks catalog saturation and audience fragmentation.
